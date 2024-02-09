@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhijdk
 - 👀 I'm interested in Java Project Development
-- 🌱 I'm currently learning Spring Boot Framework
-- 💞️ I’m looking to collaborate on Java Project
+- 🌱 I'm currently working in SAP Hybris Project
+- 💞️ I’m looking to collaborate on Java Project for part time
 - 📫 How to reach me- abhinnabehuria@outlook.com
 - 🌐 About MySelf- https://abhijdk.github.io/A_Portfolio_Website
 
